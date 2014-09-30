@@ -3,5 +3,9 @@
   "movieRecords": "movies",
   "movieTemplates": "templates",
   "bestMovieRecords": "best movies",
-  "bestMovieTemplates": "best templates"
+  "bestMovieTemplates": "best templates",
+  "movieRecord": "movie",
+  "otherMovies": "other movies",
+  "menuTitle": "menu",
+  "licenseInfo": "license necessary"
 }
