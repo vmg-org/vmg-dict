@@ -1,0 +1,7 @@
+{
+  "login": "login",
+  "movieRecords": "movies",
+  "movieTemplates": "templates",
+  "bestMovieRecords": "best movies",
+  "bestMovieTemplates": "best templates"
+}
