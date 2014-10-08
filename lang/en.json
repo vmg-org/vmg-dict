@@ -36,7 +36,8 @@
   "cancelTemplate": "cancel",
   "publishTemplate": "publish the template",
   "createTemplate": "create a template",
-  "prolongTemplate" : "prolong",
+  "removeTemplate": "remove the template",
+  "prolongTemplate": "prolong",
   "editTemplate": "edit",
   "shareTemplate": "share",
   "likeTemplate": "like",
@@ -47,5 +48,9 @@
   "tweetEpisode": "tweet this episode",
   "takeEpisode": "participate",
   "attachVideo": "attach a video",
-  "showAttachedVideos": "show attached videos"
+  "showAttachedVideos": "show attached videos",
+  "youCanParticipateUntil": "you can participate (attach your videos) until",
+  "durationOfEpisodesEquals": "episode duration:",
+  "countOfBids": "count of participants:",
+  "countOfVariants": "count of variants (uploaded video for this episode):"
 }
