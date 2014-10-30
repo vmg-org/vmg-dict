@@ -52,5 +52,22 @@
   "youCanParticipateUntil": "you can participate (attach your videos) until",
   "durationOfEpisodesEquals": "episode duration:",
   "countOfBids": "count of participants:",
-  "countOfVariants": "count of variants (uploaded video for this episode):"
+  "countOfVariants": "count of variants (uploaded video for this episode):",
+  "cabinetPageName": "cabinet",
+  "fncViewMovieTemplate": "view movie template",
+  "fncUploadToBid": "upload a video",
+  "fncCancelBid": "cancel a bid",
+  "myOpenedTemplates": "opened templates",
+  "myReadyBids": "uploaded videos",
+  "fncWatchVideo": "watch a video",
+  "enhancePageName": "enhance",
+  "saveTemplate": "save a template",
+  "fncTweetEpisode": "tweet a story",
+  "fncUploadLater": "upload later",
+  "fncUploadNow": "upload now",
+  "fncShowAttachments": "show uploaded videos",
+  "fncGoodVideo": "accept",
+  "fncBadVideo": "reject",
+  "fncBestVideo": "best",
+  "uploadPageName": "upload"
 }
